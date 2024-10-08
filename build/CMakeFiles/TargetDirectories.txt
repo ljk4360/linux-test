@@ -1,0 +1,3 @@
+/home/liujiankang/learn/gun_and_solider/build/CMakeFiles/my_cmake_exe.dir
+/home/liujiankang/learn/gun_and_solider/build/CMakeFiles/edit_cache.dir
+/home/liujiankang/learn/gun_and_solider/build/CMakeFiles/rebuild_cache.dir
